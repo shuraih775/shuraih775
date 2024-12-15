@@ -33,4 +33,4 @@ I love building systems that are secure, scalable, and reliable. My curiosity fu
 ### 📫 **Let’s Connect**  
 - **LinkedIn**: [Mohammed-Shuraih-Shaikh](https://www.linkedin.com/in/mohammed-shuraih-shaikh-507ab324b/)
 - **Email**: [shuraih15@gmail.com](mailto:shuraih15@gmail.com) 
-- **Portfolio**: [My Portfolio](https://shuraihshaikh.netlify.app/)  
+- **Portfolio**: [shuraihshaikh.netlify.app](https://shuraihshaikh.netlify.app/)  
