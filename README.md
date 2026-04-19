@@ -1,22 +1,7 @@
-# 👋 Hi, I’m **Shuraih**
+# Mohammed Shuraih Shaikh
 
-### 👨‍💻 About Me
-- CSE Undergrad at BMS College of Engineering  
-- Passionate about secure system design, microservices, and resilient backend APIs  
-- I work with Go, Python, and databases like SQL, MongoDB, and Redis  
-- Experienced in REST, gRPC, message streaming, and Docker-based deployments  
+Systems and infrastructure engineer focused on low-latency networking, concurrency, and backend systems.
 
-### 🧩 Projects
-- **ReverieFacade** – An app for managing maladaptive daydreaming  
-- **College Bookmart** – Full-stack system for streamlining college bookstore ops
+I build and study systems at multiple levels - including memory allocation, lock-free data structures, and networking pipelines, with an emphasis on performance and correctness.
 
-### 🛠 Skills
-- **Languages**: Go, Java, Python, JavaScript  
-- **Backend**: REST, gRPC, Node.js, Spring Boot  
-- **Databases**: SQL, MongoDB, Redis  
-- **Tools**: Docker, Kafka, Git, Linux  
-
-### 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/mohammed-shuraih-shaikh-507ab324b/)  
-- [Email](mailto:shuraih15@gmail.com)  
-- [Portfolio](https://shuraihshaikh.netlify.app/)
+Recently working on observability and building reliable, retryable workflows around LLM APIs, focusing on failure handling, tracing, and system behavior under load.
