@@ -1,7 +1,7 @@
 # Mohammed Shuraih Shaikh
 
-Systems and infrastructure engineer focused on low-latency networking, concurrency, and backend systems.
+Low-latency systems, concurrency, and backend infrastructure.
 
-I build and study systems at multiple levels - including memory allocation, lock-free data structures, and networking pipelines, with an emphasis on performance and correctness.
+Work includes memory allocation, lock-free data structures, and networking pipelines, focused on performance and correctness.
 
-Recently working on observability and building reliable, retryable workflows around LLM APIs, focusing on failure handling, tracing, and system behavior under load.
+Background in observability; recently working on reliable and observable agentic systems.
